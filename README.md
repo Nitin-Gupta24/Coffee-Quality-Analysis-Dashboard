@@ -21,6 +21,7 @@ The primary objective is to delve into the dataset provided by CQI to decipher t
 
 ## Data:
 The data includes a range of information on coffee production, processing, and sensory evaluation. It also contains data on coffee genetics, soil types, and other factors that can affect coffee quality.
+
 **Sensory evaluations (coffee quality scores)** -
    * Aroma: Refers to the scent or fragrance of the coffee.
    * Flavor: The flavor of coffee is evaluated based on the taste, including any sweetness, bitterness, acidity, and other flavor notes.
