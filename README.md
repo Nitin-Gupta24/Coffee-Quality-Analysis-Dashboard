@@ -13,6 +13,7 @@ The coffee industry thrives on quality, and stakeholders are constantly seeking 
 
 ## OBJECTIVE :
 The primary objective is to delve into the dataset provided by CQI to decipher the factors influencing coffee quality. This involves:
+
  
   1.Identifying the key determinants of coffee quality, focusing on sensory attributes like aroma, flavor, acidity, etc.
 
